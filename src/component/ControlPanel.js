@@ -3,7 +3,8 @@ import Counter from './Counter.js';
 import ClickCounter from './ClickCounter.js';
 
 const style = {
-  margin: '20px'
+  margin: '20px',
+  marginTop : '200px'
 };
 
 

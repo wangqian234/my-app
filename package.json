@@ -91,5 +91,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "bundle-loader": "^0.5.5"
   }
 }
